@@ -9,7 +9,8 @@ b. What do each file in your repository do?
 test.csv and train.csv are the dataset from the Kaggle competition (https://www.kaggle.com/c/demand-forecasting-kernels-only/data). 
 Inclass.R include what Professor Heaton did in class to help us start off this competition. 
 Submission.R is my first submission for this Kaggle competition which received a score of 31.65311.
-xgbtree.R is my best submission for this Kaggle competition which received a score of 15.54460.
+xgbtree.R is my best submission for this Kaggle competition which received a score of 15.54460. 
+submission.csv is the prediction result from xgbtree.R file
 
 c. What methods did you use to clean the data or do feature engineering?
 
