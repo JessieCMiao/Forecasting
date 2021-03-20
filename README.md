@@ -18,4 +18,4 @@ With only 4 variables given, I deceide to create various variables using functio
 d. What methods did you use to generate predictions?
 
 For the Submission.R, I used gradient boosting for the prediction. I choose the response variable as the number of sales, method is gbm and Trcontrol is the controls for the function and predict our test data from our training data results.
-For the xgboost.R, I use XGBTree prediction method. With the same response variable but the tuning parameters were chosen by trying different numbers to try to obtain the lowest RMSE(The values used in grid_default gave the lowest RMSE score). And using XGBTree model to get the prediction. 
+For the xgbtree.R, I use XGBTree prediction method. With the same response variable but the tuning parameters were chosen by trying different numbers to try to obtain the lowest RMSE(The values used in grid_default gave the lowest RMSE score). And using XGBTree model to get the prediction. 
